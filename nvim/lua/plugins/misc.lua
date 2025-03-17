@@ -17,7 +17,7 @@ return {
   },
   {
     -- Hints keybinds
-    'foke/which-key.nvim',
+    'folke/which-key.nvim',
   },
   {
     -- Autoclose parentheses, brackets, quotes, etc.
